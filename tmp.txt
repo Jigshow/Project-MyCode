@@ -1,0 +1,28 @@
+Read AWS soft limit 	
+Check note in book
+Warming EBS, ?? Pre-warm ELB
+
+RDS - can specify AZ
+DyanmoDB - can't specify Az
+Redshift, block size of columnar storage = 1024KB/1MB
+
+Trusted Advisor
+PV & HVM
+Autoscaling - scale-in, scale-out method
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.html
+	- The most instances
+	- Oldest launch configuration
+	- closet to next billing hour
+	- Random
+
+
+1. Complete last exam
+2. Read above
+3. Listen well design
+4. Read blog - feedback of the others exam taker
+5. Read white paper
+6. Read soft limit
+7. Read faq
+
+https://docs.aws.amazon.com/quickstart/latest/sap-hana/planning.html
+https://aws.amazon.com/sap/solutions/saphana/
