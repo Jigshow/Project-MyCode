@@ -26,3 +26,5 @@ https://docs.aws.amazon.com/autoscaling/ec2/userguide/as-instance-termination.ht
 
 https://docs.aws.amazon.com/quickstart/latest/sap-hana/planning.html
 https://aws.amazon.com/sap/solutions/saphana/
+
+test
